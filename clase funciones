@@ -1,0 +1,7 @@
+def areaCirculo ():
+    r=int(input("radio: "))
+    Pi=3.1416
+    area=Pi*r**2
+    print("El area es: ", area)
+
+areaCirculo()    
